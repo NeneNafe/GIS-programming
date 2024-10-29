@@ -1,5 +1,5 @@
 # A list of tuples containing coordinates
-# Determin whether the coordinate is from the North pr South Pore
+# Determine whether the coordinate is from the North pr South Pore
 
 list_of_coordinates = [
     (40.7128, 74.0060),

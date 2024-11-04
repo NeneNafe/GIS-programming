@@ -1,3 +1,5 @@
+# Lab 1 Exercises
+
 This first Lab comprises of 10 exercises where:
 
 Exercise 1: Variable Assignment and Basic Operations

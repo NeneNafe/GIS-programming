@@ -1,4 +1,7 @@
-Exercise 1: Manipulating Geographic Location Strings
+# Lab 2 Exercises
+
+## Exercise 1: Manipulating Geographic Location Strings
+
 Create a string that represents the name of a geographic feature (e.g., "Amazon River").
 
 Convert the string to lowercase and then to uppercase.

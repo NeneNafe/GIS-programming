@@ -10,6 +10,6 @@ output_file = "geog_coordinates.txt"
 try:
     with open(output_file, "w") as file:
         file.write(data)
-    print(f"The same file {output_file} has been created")
+    print(f"The sample file {output_file} has been created")
 except Exception as e:
     print(f"An error occurred while creating the file: {e}")
